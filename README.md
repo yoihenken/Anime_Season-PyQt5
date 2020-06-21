@@ -3,9 +3,10 @@ This GUI program will show the list of anime from season and year. this program 
 
 What you need :
 - PyQt5
-- Library requests
+- Qt Designer 
+- Library "requests"
 How to install :
-  pip install requests
+  'pip install requests'
 
 API References :
 - Jikan
