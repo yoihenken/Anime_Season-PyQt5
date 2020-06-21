@@ -5,6 +5,7 @@ What you need :
 - PyQt5
 - Qt Designer 
 - Library "requests"
+
 How to install :
   'pip install requests'
 
