@@ -5,4 +5,8 @@ What you need :
 - PyQt5
 - Library requests
 How to install :
-'''pip install requests'''
+  pip install requests
+
+API References :
+- Jikan
+https://jikan.docs.apiary.io/#
